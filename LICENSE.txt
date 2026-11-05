@@ -5,8 +5,11 @@ games and other projects, including monetised ones, on any platform.
 
 The one condition is credit. Put this in your description, credits or about page:
 
-    Music: <Artist> via Static 91  -  https://www.youtube.com/@static91radio/live
-    (for the lofi tracks:  Music: Second Steeping  -  https://www.youtube.com/@SecondSteeping)
+    Music: Static 91 Radio  -  https://www.youtube.com/@static91radio/live
+
+You can name the band too if you like (the page lists them), but the Static 91 line
+is the one we ask for. Lofi tracks come from Static 91's sister channel Second Steeping
+and use the same credit line.
 
 Not allowed: re-uploading or selling the songs themselves as music (on streaming
 services, in sample packs, as NFTs, as "your" track), or registering them with
